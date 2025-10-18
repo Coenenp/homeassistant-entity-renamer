@@ -6,7 +6,7 @@ Python script to bulk rename Home Assistant entities and their friendly names vi
 ## Development Setup
 ```bash
 # Activate virtual environment
-source venv/bin/activate
+source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
